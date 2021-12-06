@@ -1,0 +1,13 @@
+*{
+    margin: 0 auto;
+}
+header{
+    background-color:white;
+}
+.logo{
+    display: inline-block;
+}
+.titolo{
+    display: inline-block;
+    font-size: 2.5em;
+}
