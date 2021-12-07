@@ -15,6 +15,7 @@ header{
     font-size: 2.5em;
 }
 
+
 .pulsante{
     border-radius: 5px;
     background-color: #47ADF1;
@@ -22,6 +23,8 @@ header{
 }
 .pulsante2{
     border-radius: 5px;
+    background-color: white;
+    color: grey;
     
 }
 h2{
@@ -29,7 +32,7 @@ h2{
 }
 p{
     font-size: 18px;
-    font-style: oblique;
+    font-style: arial;
     margin-left: 20%;
     display: inline-block;
 }
@@ -37,4 +40,28 @@ button{
     border-radius: 5px;
     background-color: #47ADF1;
     display: inline-block;
+}
+.editorial{
+    background-color: #47ADF1;
+}
+.q1{
+    background-color: #9C72E4;
+}
+.recruding{
+    background-color: #64C0A9;
+}
+.mobile{
+    background-color: #F29E33;
+}
+.homepage{
+    background-color: #D863A1;
+}
+.sales{
+    background-color: #B0C926;
+}
+button{
+    padding: 3px;
+    color: white;
+    border-radius: 15px;
+    border: solid grey 1px;
 }
